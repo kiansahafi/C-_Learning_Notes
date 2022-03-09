@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\AVASYS\\source\\repos\\testing_project_cSharp\\testing_project_cSharp\\testing_project_cSharp.csproj",
+      "projectUniqueName": "D:\\Active Projects\\C-_Learning_Notes\\Learning_notes_cSharp\\testing_project_cSharp\\testing_project_cSharp.csproj",
       "projectName": "testing_project_cSharp",
-      "projectPath": "C:\\Users\\AVASYS\\source\\repos\\testing_project_cSharp\\testing_project_cSharp\\testing_project_cSharp.csproj",
+      "projectPath": "D:\\Active Projects\\C-_Learning_Notes\\Learning_notes_cSharp\\testing_project_cSharp\\testing_project_cSharp.csproj",
       "packagesPath": "C:\\Users\\AVASYS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\AVASYS\\source\\repos\\testing_project_cSharp\\testing_project_cSharp\\obj\\",
+      "outputPath": "D:\\Active Projects\\C-_Learning_Notes\\Learning_notes_cSharp\\testing_project_cSharp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
