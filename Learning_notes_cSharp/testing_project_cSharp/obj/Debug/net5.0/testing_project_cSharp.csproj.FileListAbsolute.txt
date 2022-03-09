@@ -1,0 +1,16 @@
+C:\Users\AVASYS\source\repos\testing_project_cSharp\testing_project_cSharp\bin\Debug\net5.0\testing_project_cSharp.exe
+C:\Users\AVASYS\source\repos\testing_project_cSharp\testing_project_cSharp\bin\Debug\net5.0\testing_project_cSharp.deps.json
+C:\Users\AVASYS\source\repos\testing_project_cSharp\testing_project_cSharp\bin\Debug\net5.0\testing_project_cSharp.runtimeconfig.json
+C:\Users\AVASYS\source\repos\testing_project_cSharp\testing_project_cSharp\bin\Debug\net5.0\testing_project_cSharp.runtimeconfig.dev.json
+C:\Users\AVASYS\source\repos\testing_project_cSharp\testing_project_cSharp\bin\Debug\net5.0\testing_project_cSharp.dll
+C:\Users\AVASYS\source\repos\testing_project_cSharp\testing_project_cSharp\bin\Debug\net5.0\ref\testing_project_cSharp.dll
+C:\Users\AVASYS\source\repos\testing_project_cSharp\testing_project_cSharp\bin\Debug\net5.0\testing_project_cSharp.pdb
+C:\Users\AVASYS\source\repos\testing_project_cSharp\testing_project_cSharp\obj\Debug\net5.0\testing_project_cSharp.csproj.AssemblyReference.cache
+C:\Users\AVASYS\source\repos\testing_project_cSharp\testing_project_cSharp\obj\Debug\net5.0\testing_project_cSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AVASYS\source\repos\testing_project_cSharp\testing_project_cSharp\obj\Debug\net5.0\testing_project_cSharp.AssemblyInfoInputs.cache
+C:\Users\AVASYS\source\repos\testing_project_cSharp\testing_project_cSharp\obj\Debug\net5.0\testing_project_cSharp.AssemblyInfo.cs
+C:\Users\AVASYS\source\repos\testing_project_cSharp\testing_project_cSharp\obj\Debug\net5.0\testing_project_cSharp.csproj.CoreCompileInputs.cache
+C:\Users\AVASYS\source\repos\testing_project_cSharp\testing_project_cSharp\obj\Debug\net5.0\testing_project_cSharp.dll
+C:\Users\AVASYS\source\repos\testing_project_cSharp\testing_project_cSharp\obj\Debug\net5.0\ref\testing_project_cSharp.dll
+C:\Users\AVASYS\source\repos\testing_project_cSharp\testing_project_cSharp\obj\Debug\net5.0\testing_project_cSharp.pdb
+C:\Users\AVASYS\source\repos\testing_project_cSharp\testing_project_cSharp\obj\Debug\net5.0\testing_project_cSharp.genruntimeconfig.cache
