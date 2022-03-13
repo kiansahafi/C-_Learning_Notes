@@ -61,7 +61,8 @@ namespace testing_project_cSharp
                 arg1: pricePerApple * numberOfApples);
             //this is a way of formatting the strings
 
-
+            string StringIntrepolation = $"Hello, this is the formatted string in the previous section : {formatted} . ";
+            //this is the string interpolation in c#
         }
     }
 }
